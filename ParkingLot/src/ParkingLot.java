@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParkingGarage
+public class ParkingLot
 {
 	public static void main(String[] args)
 	{
