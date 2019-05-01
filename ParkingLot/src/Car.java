@@ -59,9 +59,4 @@ public class Car
 		
 		return parkTime.until(currentTime, ChronoUnit.SECONDS);
 	}
-	
-	public String toString()
-	{
-		return String.format("%s %s %d", make, model, year);
-	}
 }
